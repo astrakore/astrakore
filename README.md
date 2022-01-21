@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello there 👋 it's me, Tere C. Sauri
+
+### Student at Geekshubs Academy Valencia
+
+
 
 <!--
 **astrakore/astrakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
