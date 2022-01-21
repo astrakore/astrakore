@@ -1,8 +1,12 @@
 # Hello there 👋 it's me, Tere C. Sauri
 
+(under construction!)
+
 ### Student at Geekshubs Academy Valencia
 
+I'm a future FullStack Developer! I love learning, coding and outsmarting myself.
 
+ #### Languages
 
 <!--
 **astrakore/astrakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
