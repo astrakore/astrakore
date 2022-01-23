@@ -4,7 +4,7 @@
 
 I'm a future FullStack Developer! I love learning, coding and outsmarting myself.
 
-My pronouns are: She/They/He. I'm 19 and I live in Valencia, Spain.
+I'm 19 and I live in Valencia, Spain.
 
 I'm also a design, art and language learning enthusiast!
 
