@@ -10,20 +10,20 @@ I'm also a design, art and language learning enthusiast!
 
 ### Find me in:
 
-![icons8-github-64](https://user-images.githubusercontent.com/95984367/150640292-42b6ec1e-46cb-4548-801b-78384ccc6309.png)![icons8-linkedin-64](https://user-images.githubusercontent.com/95984367/150640295-0244e640-abe3-4504-ad6b-3d2942ab56c0.png)![icons8-slack-64](https://user-images.githubusercontent.com/95984367/150640320-382e6bc8-4474-426c-998a-4fb65bb8f74c.png)
+[![icons8-github-64](https://user-images.githubusercontent.com/95984367/150640292-42b6ec1e-46cb-4548-801b-78384ccc6309.png)](https://github.com/astrakore)[![icons8-linkedin-64](https://user-images.githubusercontent.com/95984367/150640295-0244e640-abe3-4504-ad6b-3d2942ab56c0.png)](https://www.linkedin.com/in/teresa-carrasco-sauri-a91750204/)
 
 ### Languages
  
-![icons8-html-5-64](https://user-images.githubusercontent.com/95984367/150639882-34f19a60-ee29-4604-87b8-d90bd4fe5b70.png)![icons8-css3-64](https://user-images.githubusercontent.com/95984367/150639918-b6fb5eba-bbae-4563-b71b-dcff2092e633.png)![icons8-javascript-logo-64](https://user-images.githubusercontent.com/95984367/150639929-f1ffa9b2-61cd-4508-9e20-f0ac94f0c86e.png)
+[![icons8-html-5-64](https://user-images.githubusercontent.com/95984367/150639882-34f19a60-ee29-4604-87b8-d90bd4fe5b70.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)[![icons8-css3-64](https://user-images.githubusercontent.com/95984367/150639918-b6fb5eba-bbae-4563-b71b-dcff2092e633.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![icons8-javascript-logo-64](https://user-images.githubusercontent.com/95984367/150639929-f1ffa9b2-61cd-4508-9e20-f0ac94f0c86e.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Want to learn
 
-![icons8-react-64](https://user-images.githubusercontent.com/95984367/150640075-26959881-95e3-4f15-b28b-929d93dfca23.png)
+[![icons8-react-64](https://user-images.githubusercontent.com/95984367/150640075-26959881-95e3-4f15-b28b-929d93dfca23.png)](https://es.reactjs.org/)
 
 
 ### Design
 
-![icons8-procreate-64](https://user-images.githubusercontent.com/95984367/150639971-7d4aa861-60ff-44e9-a816-f30a2c37a3aa.png)![icons8-aseprite-64](https://user-images.githubusercontent.com/95984367/150639980-37fe74bc-5fa6-4cbc-921a-11f0db0eb934.png)![icons8-clip-studio-paint-64](https://user-images.githubusercontent.com/95984367/150640005-587e7208-b49b-4a20-9154-7a7b3c69531f.png)![icons8-canva-app-64](https://user-images.githubusercontent.com/95984367/150640310-7a938bc0-4a06-47b8-a20d-855de8749ee3.png)
+[![icons8-procreate-64](https://user-images.githubusercontent.com/95984367/150639971-7d4aa861-60ff-44e9-a816-f30a2c37a3aa.png)](https://procreate.art/)[![icons8-aseprite-64](https://user-images.githubusercontent.com/95984367/150639980-37fe74bc-5fa6-4cbc-921a-11f0db0eb934.png)](https://www.aseprite.org/)[![icons8-clip-studio-paint-64](https://user-images.githubusercontent.com/95984367/150640005-587e7208-b49b-4a20-9154-7a7b3c69531f.png)](https://www.clipstudio.net/es/)[![icons8-canva-app-64](https://user-images.githubusercontent.com/95984367/150640310-7a938bc0-4a06-47b8-a20d-855de8749ee3.png)[(https://www.canva.com/)
 
 ### Gaming
 
