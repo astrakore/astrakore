@@ -31,7 +31,7 @@ I'm also a design, art and language learning enthusiast!
 
 ### Icons by:
 
-![icons8-icons8-64](https://user-images.githubusercontent.com/95984367/150639947-d5752f13-fa86-429b-86f4-766051bb27f5.png)
+[![icons8-icons8-64](https://user-images.githubusercontent.com/95984367/150639947-d5752f13-fa86-429b-86f4-766051bb27f5.png)](https://icons8.com/)
 
 <!--
 **astrakore/astrakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
