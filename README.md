@@ -23,7 +23,7 @@ I'm also a design, art and language learning enthusiast!
 
 ### Design
 
-[![icons8-procreate-64](https://user-images.githubusercontent.com/95984367/150639971-7d4aa861-60ff-44e9-a816-f30a2c37a3aa.png)](https://procreate.art/)[![icons8-aseprite-64](https://user-images.githubusercontent.com/95984367/150639980-37fe74bc-5fa6-4cbc-921a-11f0db0eb934.png)](https://www.aseprite.org/)[![icons8-clip-studio-paint-64](https://user-images.githubusercontent.com/95984367/150640005-587e7208-b49b-4a20-9154-7a7b3c69531f.png)](https://www.clipstudio.net/es/)[![icons8-canva-app-64](https://user-images.githubusercontent.com/95984367/150640310-7a938bc0-4a06-47b8-a20d-855de8749ee3.png)[(https://www.canva.com/)
+[![icons8-procreate-64](https://user-images.githubusercontent.com/95984367/150639971-7d4aa861-60ff-44e9-a816-f30a2c37a3aa.png)](https://procreate.art/)[![icons8-aseprite-64](https://user-images.githubusercontent.com/95984367/150639980-37fe74bc-5fa6-4cbc-921a-11f0db0eb934.png)](https://www.aseprite.org/)[![icons8-clip-studio-paint-64](https://user-images.githubusercontent.com/95984367/150640005-587e7208-b49b-4a20-9154-7a7b3c69531f.png)](https://www.clipstudio.net/es/)[![icons8-canva-app-64](https://user-images.githubusercontent.com/95984367/150640310-7a938bc0-4a06-47b8-a20d-855de8749ee3.png)](https://www.canva.com/)
 
 ### Gaming
 
