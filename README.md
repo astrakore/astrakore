@@ -14,12 +14,7 @@ I'm also a design, art and language learning enthusiast!
 
 ### Languages
  
-[![icons8-html-5-64](https://user-images.githubusercontent.com/95984367/150639882-34f19a60-ee29-4604-87b8-d90bd4fe5b70.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)[![icons8-css3-64](https://user-images.githubusercontent.com/95984367/150639918-b6fb5eba-bbae-4563-b71b-dcff2092e633.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![icons8-javascript-logo-64](https://user-images.githubusercontent.com/95984367/150639929-f1ffa9b2-61cd-4508-9e20-f0ac94f0c86e.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### Learning
-
-[![icons8-react-64](https://user-images.githubusercontent.com/95984367/150640075-26959881-95e3-4f15-b28b-929d93dfca23.png)](https://es.reactjs.org/)
-
+[![icons8-html-5-64](https://user-images.githubusercontent.com/95984367/150639882-34f19a60-ee29-4604-87b8-d90bd4fe5b70.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)[![icons8-css3-64](https://user-images.githubusercontent.com/95984367/150639918-b6fb5eba-bbae-4563-b71b-dcff2092e633.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![icons8-javascript-logo-64](https://user-images.githubusercontent.com/95984367/150639929-f1ffa9b2-61cd-4508-9e20-f0ac94f0c86e.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![icons8-react-64](https://user-images.githubusercontent.com/95984367/150640075-26959881-95e3-4f15-b28b-929d93dfca23.png)](https://es.reactjs.org/)
 
 ### Design
 
