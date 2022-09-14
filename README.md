@@ -1,16 +1,16 @@
 # Hello there 👋 it's me, Tere C. Sauri
 
-### Student at Geekshubs Academy Valencia
+### Full Stack Developer
 
-I'm a future FullStack Developer! I love learning, coding and outsmarting myself.
+I'm a FullStack Developer! I love learning, coding and outsmarting myself.
 
-I'm 19 and I live in Valencia, Spain.
+I'm 20 and I live in Valencia, Spain.
 
 I'm also a design, art and language learning enthusiast!
 
 ### Find me in:
 
-[![icons8-github-64](https://user-images.githubusercontent.com/95984367/150640292-42b6ec1e-46cb-4548-801b-78384ccc6309.png)](https://github.com/astrakore)[![icons8-linkedin-64](https://user-images.githubusercontent.com/95984367/150640295-0244e640-abe3-4504-ad6b-3d2942ab56c0.png)](https://www.linkedin.com/in/teresa-carrasco-sauri-a91750204/)
+[![icons8-github-64](https://user-images.githubusercontent.com/95984367/150640292-42b6ec1e-46cb-4548-801b-78384ccc6309.png)](https://github.com/astrakore)[![icons8-linkedin-64](https://user-images.githubusercontent.com/95984367/150640295-0244e640-abe3-4504-ad6b-3d2942ab56c0.png)](www.linkedin.com/in/teresa-carrasco)
 
 ### Languages
  
