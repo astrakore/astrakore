@@ -10,7 +10,7 @@ I'm also a design, art and language learning enthusiast!
 
 ### Find me in:
 
-[![icons8-github-64](https://user-images.githubusercontent.com/95984367/150640292-42b6ec1e-46cb-4548-801b-78384ccc6309.png)](https://github.com/astrakore)[![icons8-linkedin-64](https://user-images.githubusercontent.com/95984367/150640295-0244e640-abe3-4504-ad6b-3d2942ab56c0.png)](www.linkedin.com/in/teresa-carrasco)
+[![icons8-github-64](https://user-images.githubusercontent.com/95984367/150640292-42b6ec1e-46cb-4548-801b-78384ccc6309.png)](https://github.com/astrakore)[![icons8-linkedin-64](https://www.linkedin.com/in/teresa-carrasco)
 
 ### Languages
  
